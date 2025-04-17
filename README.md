@@ -4,6 +4,6 @@ This is a real-time dashboard that displays Temperature, pH, and TDS values from
 
 ## 🌐 Live Demo
 
-Check the deployed version here: [https://your-vercel-project-url.vercel.app](https://your-vercel-project-url.vercel.app)
+Check the deployed version here: [https://ui-for-water-quality-parameters.vercel.app/](https://your-vercel-project-url.vercel.app)
 
 
