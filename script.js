@@ -1,3 +1,4 @@
+
 // Connect to the WebSocket server
 const socket = new WebSocket("wss://real-time-water-monitoring-system.onrender.com/frontend");
 
